@@ -1,0 +1,49 @@
+body{
+    font-family: 'Exo 2', sans-serif;
+}
+
+.navbar-sidebar{
+    margin: 30px -20px 20px -20px;
+}
+
+.navbar-sidebar > .nav-item {
+    padding: 5px 0px;
+}
+
+li a:hover{
+    background-color: lightgray;
+}
+
+.navbar-sidebar > li > a{
+    display: block;
+    text-align: center;
+    color: #777;
+    padding: 15px 0px;
+    text-decoration: none;
+}
+
+.main{
+    padding: 40px;
+
+}
+
+.placeholders{
+    padding-top: 10px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.placeholder{
+    margin-bottom: 20px;
+}
+
+.placeholder img {
+    display: inline;
+    border-radius: 50%;
+}
+
+footer{
+    background-color: #333947;
+    padding: 15px;
+    color: white;
+}
